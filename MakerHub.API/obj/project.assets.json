@@ -499,11 +499,6 @@
       "ToolBox.AutoMapper/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "5.0.10",
-          "Microsoft.EntityFrameworkCore.Sqlite": "5.0.10",
-          "Swashbuckle.AspNetCore": "6.2.1"
-        },
         "compile": {
           "bin/placeholder/ToolBox.AutoMapper.dll": {}
         },
@@ -1411,8 +1406,8 @@
     },
     "ToolBox.AutoMapper/1.0.0": {
       "type": "project",
-      "path": "../../../../Documents/KhunLy/demo.api/ToolBox.AutoMapper/ToolBox.AutoMapper.csproj",
-      "msbuildProject": "../../../../Documents/KhunLy/demo.api/ToolBox.AutoMapper/ToolBox.AutoMapper.csproj"
+      "path": "../ToolBox.AutoMapper/ToolBox.AutoMapper.csproj",
+      "msbuildProject": "../ToolBox.AutoMapper/ToolBox.AutoMapper.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1464,8 +1459,8 @@
             "C:\\Users\\basti\\Desktop\\MAKERHUB\\MakerHub.API\\MakerHub.DAL\\MakerHub.DAL.csproj": {
               "projectPath": "C:\\Users\\basti\\Desktop\\MAKERHUB\\MakerHub.API\\MakerHub.DAL\\MakerHub.DAL.csproj"
             },
-            "C:\\Users\\basti\\Documents\\KhunLy\\demo.api\\ToolBox.AutoMapper\\ToolBox.AutoMapper.csproj": {
-              "projectPath": "C:\\Users\\basti\\Documents\\KhunLy\\demo.api\\ToolBox.AutoMapper\\ToolBox.AutoMapper.csproj"
+            "C:\\Users\\basti\\Desktop\\MAKERHUB\\MakerHub.API\\ToolBox.AutoMapper\\ToolBox.AutoMapper.csproj": {
+              "projectPath": "C:\\Users\\basti\\Desktop\\MAKERHUB\\MakerHub.API\\ToolBox.AutoMapper\\ToolBox.AutoMapper.csproj"
             }
           }
         }
