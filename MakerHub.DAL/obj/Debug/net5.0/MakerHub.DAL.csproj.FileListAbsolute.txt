@@ -1,0 +1,15 @@
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\bin\Debug\net5.0\MakerHub.DAL.deps.json
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\bin\Debug\net5.0\MakerHub.DAL.runtimeconfig.json
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\bin\Debug\net5.0\MakerHub.DAL.runtimeconfig.dev.json
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\bin\Debug\net5.0\MakerHub.DAL.dll
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\bin\Debug\net5.0\ref\MakerHub.DAL.dll
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\bin\Debug\net5.0\MakerHub.DAL.pdb
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\obj\Debug\net5.0\MakerHub.DAL.csproj.AssemblyReference.cache
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\obj\Debug\net5.0\MakerHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\obj\Debug\net5.0\MakerHub.DAL.AssemblyInfoInputs.cache
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\obj\Debug\net5.0\MakerHub.DAL.AssemblyInfo.cs
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\obj\Debug\net5.0\MakerHub.DAL.csproj.CoreCompileInputs.cache
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\obj\Debug\net5.0\MakerHub.DAL.dll
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\obj\Debug\net5.0\ref\MakerHub.DAL.dll
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\obj\Debug\net5.0\MakerHub.DAL.pdb
+C:\Users\basti\Desktop\MAKERHUB\MakerHub.API\MakerHub.DAL\obj\Debug\net5.0\MakerHub.DAL.genruntimeconfig.cache

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ce fichier est utilisé par le processus de publication/package de votre projet web. Vous pouvez personnaliser le comportement de ce processus
+en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAofhfoXb3GkKCUl+nvX9acgAAAAACAAAAAAAQZgAAAAEAACAAAACeDrP4YWIbxougnKi6xOUScQvrr4PvhKOrFmtiNlRbAgAAAAAOgAAAAAIAACAAAABoDRGKaUH9RvkveHZ4UxDxhmJLVZOPU90rHCmI49inESAAAAAw5Y73gjj4UizNIgTyQBTSZx57TDnmmvlAjAdDHYnNQUAAAACQuSWL4iLMs7a5j/SX/bF9nVyegJMsl5lVIQKXviNZHSwph4Asz/QQ0KMmuVADcfkfEWNt59yF7ZqMEyGXWMqo</EncryptedPassword>
+    <_PublishTargetUrl>ftp://makerhub.somee.com/www.makerhub.somee.com/</_PublishTargetUrl>
+    <History>True|2021-09-28T07:40:27.3925357Z;True|2021-09-28T08:46:04.8777263+02:00;True|2021-09-28T05:46:52.8351034+02:00;True|2021-09-28T05:30:07.6714102+02:00;False|2021-09-28T05:27:22.1127633+02:00;True|2021-09-28T05:19:27.6667684+02:00;True|2021-09-28T05:09:14.5223951+02:00;False|2021-09-28T05:04:40.8900868+02:00;False|2021-09-28T05:04:11.4555877+02:00;False|2021-09-28T05:03:33.1222379+02:00;False|2021-09-28T05:02:48.6857172+02:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>09/17/2021 21:40:17</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>09/17/2021 21:40:17</publishTime>
+    </File>
+    <File Include="MakerHub.API.deps.json">
+      <publishTime>09/28/2021 09:38:46</publishTime>
+    </File>
+    <File Include="MakerHub.API.dll">
+      <publishTime>09/28/2021 09:38:45</publishTime>
+    </File>
+    <File Include="MakerHub.API.exe">
+      <publishTime>09/28/2021 09:38:45</publishTime>
+    </File>
+    <File Include="MakerHub.API.pdb">
+      <publishTime>09/28/2021 09:38:45</publishTime>
+    </File>
+    <File Include="MakerHub.API.runtimeconfig.json">
+      <publishTime>09/28/2021 05:02:37</publishTime>
+    </File>
+    <File Include="MakerHub.DAL.dll">
+      <publishTime>09/28/2021 09:38:39</publishTime>
+    </File>
+    <File Include="MakerHub.DAL.pdb">
+      <publishTime>09/28/2021 09:38:39</publishTime>
+    </File>
+    <File Include="Microsoft.Data.Sqlite.dll">
+      <publishTime>08/11/2021 01:33:10</publishTime>
+    </File>
+    <File Include="Microsoft.DotNet.PlatformAbstractions.dll">
+      <publishTime>06/17/2020 06:37:52</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Abstractions.dll">
+      <publishTime>08/11/2021 01:32:48</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.dll">
+      <publishTime>08/11/2021 01:33:00</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Relational.dll">
+      <publishTime>08/11/2021 01:33:06</publishTime>
+    </File>
+    <File Include="Microsoft.EntityFrameworkCore.Sqlite.dll">
+      <publishTime>08/11/2021 01:33:12</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyInjection.dll">
+      <publishTime>06/15/2021 21:12:46</publishTime>
+    </File>
+    <File Include="Microsoft.Extensions.DependencyModel.dll">
+      <publishTime>10/19/2020 20:49:02</publishTime>
+    </File>
+    <File Include="Microsoft.OpenApi.dll">
+      <publishTime>08/29/2020 22:14:12</publishTime>
+    </File>
+    <File Include="runtimes/alpine-x64/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 18:13:28</publishTime>
+    </File>
+    <File Include="runtimes/linux-arm/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 18:13:28</publishTime>
+    </File>
+    <File Include="runtimes/linux-arm64/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 18:13:28</publishTime>
+    </File>
+    <File Include="runtimes/linux-armel/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 18:13:28</publishTime>
+    </File>
+    <File Include="runtimes/linux-mips64/native/libe_sqlite3.so">
+      <publishTime>08/27/2020 20:50:26</publishTime>
+    </File>
+    <File Include="runtimes/linux-musl-x64/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 18:13:28</publishTime>
+    </File>
+    <File Include="runtimes/linux-x64/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 18:13:28</publishTime>
+    </File>
+    <File Include="runtimes/linux-x86/native/libe_sqlite3.so">
+      <publishTime>08/28/2020 18:13:28</publishTime>
+    </File>
+    <File Include="runtimes/osx-x64/native/libe_sqlite3.dylib">
+      <publishTime>08/17/2020 17:58:04</publishTime>
+    </File>
+    <File Include="runtimes/win-arm/native/e_sqlite3.dll">
+      <publishTime>08/17/2020 16:38:30</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/e_sqlite3.dll">
+      <publishTime>08/17/2020 16:38:42</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/e_sqlite3.dll">
+      <publishTime>08/17/2020 16:38:20</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/e_sqlite3.dll">
+      <publishTime>08/17/2020 16:38:10</publishTime>
+    </File>
+    <File Include="SQLitePCLRaw.batteries_v2.dll">
+      <publishTime>09/03/2020 19:13:26</publishTime>
+    </File>
+    <File Include="SQLitePCLRaw.core.dll">
+      <publishTime>09/03/2020 19:13:04</publishTime>
+    </File>
+    <File Include="SQLitePCLRaw.nativelibrary.dll">
+      <publishTime>09/03/2020 19:13:02</publishTime>
+    </File>
+    <File Include="SQLitePCLRaw.provider.dynamic_cdecl.dll">
+      <publishTime>09/03/2020 19:13:18</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>08/30/2021 15:32:42</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>08/30/2021 15:32:58</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>08/30/2021 15:33:04</publishTime>
+    </File>
+    <File Include="System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>12/12/2020 03:40:42</publishTime>
+    </File>
+    <File Include="ToolBox.AutoMapper.dll">
+      <publishTime>09/28/2021 05:02:34</publishTime>
+    </File>
+    <File Include="ToolBox.AutoMapper.pdb">
+      <publishTime>09/28/2021 05:02:34</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>09/28/2021 09:38:46</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
